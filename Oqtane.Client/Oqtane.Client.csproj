@@ -39,4 +39,8 @@
   <ItemGroup>
     <ProjectReference Include="..\Oqtane.Shared\Oqtane.Shared.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Modules\KingdomPosts\" />
+  </ItemGroup>
 </Project>
